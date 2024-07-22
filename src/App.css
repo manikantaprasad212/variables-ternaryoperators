@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+table{
+  border:5px solid gold;
+  border-collapse: collapse;
+  width:50%;
+  margin: 25px;
+
+}
+th,td{
+  border:2px solid black;
+}
+caption{
+  background-color: rgba(58, 206, 98, 0.863);
+  color:red
+}
